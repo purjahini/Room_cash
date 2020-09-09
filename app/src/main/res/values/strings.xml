@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="terimaDari">Terima Dari</string>
+    <string name="Keterangan">Keterangan</string>
+    <string name="Jumlah">Jumlah</string>
+    <string name="kirim">Kirim Data</string>
+    <string name="lihat">lihat Data</string>
+</resources>
